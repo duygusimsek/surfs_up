@@ -18,7 +18,15 @@ This analysis aimed to provide additional information about temperature trends o
 
 
 ## Summary
+By analyzing these two tables;
 
+* The temperatures from the months of June and December show that the minimum temperature drops under 60 degrees, which is not desired degree for ice cream. Also, the warmest weathers for December are over 74 degrees, which is promising for investment.  Both months of June and December have a mean of over 71 degrees, which shows nice weather for surfing and ice cream.
+
+* Expectedly, the June temperatures are higher than in December, with a maximum temperature of 83 and a minimum temperature of 64 degrees. 
+
+* There is no major difference between the temperatures of June and December, and that can help to predict the weather of the Oahu island has consistent temperatures. 
+
+* With this weather information, opening a Surf N’ Shake shop in Oahu is a good business venture. However, It might be useful to gather and analyze more data about the weather conditions of the location - such as wind speed and rainy days. 
 
 
 
