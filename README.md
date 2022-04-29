@@ -32,7 +32,13 @@ By analyzing these two tables;
 
 * There is no major difference between the temperatures of June and December, and that can help to predict the weather of the Oahu island has consistent temperatures. 
 
-* With this weather information, opening a Surf N’ Shake shop in Oahu is a good business venture. However, It might be useful to gather and analyze more data about the weather conditions of the location - such as wind speed and rainy days. 
+* To display the temperature results better, by writing additional queries two different histograms were prepared for the months of June and December. 
+[June_Temps.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/June_Temps.png),
+[Dec_Temps.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/Dec_Temps.png)
+
+* With this weather information, opening a Surf N’ Shake shop in Oahu is a good business venture. However, It might be useful to gather and analyze more data about the weather conditions of the location - such as wind speed and rainy days. For that reason, an additional query was written to determine the precipitation to observe quantity and frequency during June and December. [June_Precipitation.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/June_Precipitation.png), [December_Precipitation.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/December_Precipitation.png)
+
+* Analyzing the precipitation datasets for the months of June and December points out that Oahu is mostly sunny throughout the day and experienced low rainfall.  This is another fact that that location is a good choice for the business venture. 
 
 
 
