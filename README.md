@@ -10,12 +10,18 @@ To get a better understanding of the trends in the data, all of the station obse
 [climate_analysis.ipynb](https://github.com/duygusimsek/surfs_up/blob/main/climate_analysis.ipynb)
 
 ### Purpose of this Analysis
-This analysis aimed to provide additional information about temperature trends on Oahu before opening the surf shop. The temperature data of Oahu island from the months of June and December was determined to find out if opening a Surf N’ Shake shop is conducive. 
+This analysis aimed to provide additional information about temperature trends on Oahu before opening the surf shop. The temperature data of Oahu island from the months of June and December was determined to find out if opening a Surf N’ Shake shop is conducive. [SurfsUp_Challenge.ipynb](https://github.com/duygusimsek/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 ## Result 
+In this analysis, to represent the summer and winter weather of Oahu, the months of June and December temperatures were compared. For that purpose, describe function was used and the temperatures mean, standard deviation and min-max temperatures were determined.  As data source [hawaii.sqlite](https://github.com/duygusimsek/surfs_up/blob/main/hawaii.sqlite) had used. 
 
+* Comparing the temperatures of June and December, both months have an average of 75°F and 71 °F, sequentially. 
+* The standard deviations of both moths are comparable. June's standard deviation of 3.26 and December's standard deviation of 3.75 show that the months’ temperatures are around their average. 
+* The 75th percentile (June - 77 °F, December - 74 °F) suggests that these two seasons had relatively warm temperatures close to each other. 
 
+[June_Result.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/June_Result.png)
 
+[December_Result.png](https://github.com/duygusimsek/surfs_up/blob/main/Result_images/December_Result.png)
 
 ## Summary
 By analyzing these two tables;
